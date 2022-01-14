@@ -10,6 +10,6 @@ First of all, you should launch ravend or raven-qt with server=1.
 
 ```
 $ ./nonce.sh
-$ make nonce.png
+$ make
 ```
 
