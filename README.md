@@ -1,4 +1,4 @@
-nonce-plot
+nonce-plot-raven
 ==========
 
 This will plot block nonce value pre and post kawpow fork.
