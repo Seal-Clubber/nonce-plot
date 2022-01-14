@@ -1,4 +1,4 @@
-nonce.png: nonce.csv
+nonce.png: nonce.lst
 	gnuplot -e " \
 		set terminal png size 1920,1080 font 'VL P Gothic,18'; \
 		set output '$@'; \
